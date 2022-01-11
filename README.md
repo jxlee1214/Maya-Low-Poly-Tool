@@ -5,7 +5,7 @@
 
 Low poly tool provides function for auto generating low poly objects. It provides tree, rock and cloud mesh random generating. You can also select your own object and make it low poly.
 
-![overview](.\pic\overview.jpg)
+![overview](./pic/overview.jpg)
 
 ## 2. How to use
 
@@ -25,7 +25,7 @@ Low poly tool provides function for auto generating low poly objects. It provide
 
 - Press _Execute_ in menu or _Ctrl Enter_ to run the script. The window will appear.
 
-  ![1640001047916](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\1640001047916.png)
+  ![window](./pic/window.png)
 
 ### 2.2 Create Object
 
@@ -35,19 +35,19 @@ Low poly tool provides function for auto generating low poly objects. It provide
   3. _Coord_: Coordinate range in the scene that trees will be randomly located. If you want to specify the coordinate, keep the two number in coordinate same.
   4. Button _Create Tree_: Click to create trees with above parameters.
 
-![1639995519859](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\1639995519859.png)
+![tree](./pic/tree.png)
 
 - **Create Low Poly Rock**
 
   Similar to _**Create Low Poly Tree**_.
 
-![1639995549854](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\1639995549854.png)
+![rock](./pic/rock.png)
 
 - **Create Low Poly Cloud**
 
   Similar to _**Create Low Poly Tree**_. The default _Y_ lies between [10, 20].  
 
-![1639999392426](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\1639999392426.png)
+![cloud](./pic/cloud.png)
 
 ### 2.3 Create Low Poly for Any Selected Mesh
 
