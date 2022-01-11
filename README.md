@@ -5,7 +5,7 @@
 
 Low poly tool provides function for auto generating low poly objects. It provides tree, rock and cloud mesh random generating. You can also select your own object and make it low poly.
 
-![overview](.\pic\overview.png)
+![overview](.\pic\overview.jpg)
 
 ## 2. How to use
 
